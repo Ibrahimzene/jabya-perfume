@@ -18,7 +18,7 @@ export default function OrderDetails({
   const { trigger: deliverOrder, isMutating: isDelivering } = useSWRMutation(
     `/api/orders/${orderId}`,
     async (url) => {
-      const res = await fetch(`/api/admin/orders/${orderId}/deliver`, {
+      const res = await fetch(`/api/orders/${orderId}/deliver`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -192,6 +192,7 @@ export default function OrderDetails({
                     </PayPalScriptProvider>
                   </li>
                 )}
+
                 {session?.user.isAdmin && (
                   <li>
                     <button
