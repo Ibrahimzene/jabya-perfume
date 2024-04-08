@@ -30,20 +30,6 @@ const data = {
       isFeatured: true,
       banner: "/images/amirat-al-arab.jpg",
     },
-    {
-      name: "Eau de Luxe",
-      slug: "eau-de-luxe",
-      category: "perfume",
-      image: "/images/asus-vivobook.jpg",
-      price: 55,
-      brand: "Chanel",
-      rating: 4.8,
-      numReviews: 12,
-      countInStock: 15,
-      description: "An elegant and luxurious scent for special occasions.",
-      isFeatured: true,
-      banner: "/images/asus-vivobook.jpg",
-    },
   ],
 }
 
