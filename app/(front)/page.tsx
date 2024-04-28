@@ -17,6 +17,7 @@ export default async function Home() {
   const latestProducts = await productService.getLatest()
   return (
     <>
+      {/*
       <div className="w-full carousel rounded-box mt-4">
         {featuredProducts.map((product, index) => (
           <div
@@ -28,9 +29,9 @@ export default async function Home() {
               <img src={product.banner} className="w-full" alt={product.name} />
             </Link>
 
-            <div
+              <div
               className="absolute flex justify-between transform 
-               -translate-y-1/2 left-5 right-5 top-1/2"
+                -translate-y-1/2 left-5 right-5 top-1/2"
             >
               <a
                 href={`#slide-${
@@ -48,10 +49,11 @@ export default async function Home() {
               >
                 ❯
               </a>
-            </div>
+            </div> 
           </div>
         ))}
       </div>
+      */}
       <h2 className="text-2xl py-2">Latest Products</h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-3 lg:grid-cols-4">
         {latestProducts.map((product) => (
