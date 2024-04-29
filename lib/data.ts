@@ -20,7 +20,7 @@ const data = {
       name: "Elysium Eau de Parfum",
       slug: "elysium-eau-de-parfum",
       category: "Fragrances",
-      image: "/images/Perfumes1.jpg",
+      image: "/images/1.jpg",
       price: 8.99,
       brand: "TechCo",
       rating: 4.8,
@@ -29,7 +29,7 @@ const data = {
       description:
         "Experience the invigorating blend of citrus and musk with our Elysium Eau de Parfum, designed for the modern man seeking power and excitement in work and leisure alike.",
       isFeatured: true,
-      banner: "/images/1.jpg",
+      banner: "/images/b1.jpg",
     },
   ],
 }
