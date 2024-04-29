@@ -29,7 +29,7 @@ const data = {
       description:
         "Experience the invigorating blend of citrus and musk with our Elysium Eau de Parfum, designed for the modern man seeking power and excitement in work and leisure alike.",
       isFeatured: true,
-      banner: "/images/Banner1.jpg",
+      banner: "/images/1.jpg",
     },
   ],
 }
