@@ -13,6 +13,10 @@ const config: Config = {
         light: {
           ...require("daisyui/src/theming/themes")["light"],
           primary: "#fbbf24",
+          ".toaster-con": {
+            "background-color": "white",
+            color: "black",
+          },
         },
         dark: {
           ...require("daisyui/src/theming/themes")["dark"],

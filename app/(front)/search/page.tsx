@@ -6,15 +6,15 @@ import Link from "next/link"
 const sortOrders = ["newest", "lowest", "highest", "rating"]
 const prices = [
   {
-    name: "$1 to $50",
+    name: "1 € to 50 €",
     value: "1-50",
   },
   {
-    name: "$51 to $200",
+    name: "51 € to 200 €",
     value: "51-200",
   },
   {
-    name: "$201 to $1000",
+    name: "201 € to 1000 €",
     value: "201-1000",
   },
 ]
@@ -104,7 +104,7 @@ export default async function SearchPage({
   return (
     <div className="grid md:grid-cols-5 md:gap-5">
       <div>
-        <div className="text-xl pt-3">JABYA Ecommerce </div>
+        <div className="text-xl pt-3">JABYA PERFUME </div>
         <div>
           <ul>
             <li>
