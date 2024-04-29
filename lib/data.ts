@@ -21,7 +21,7 @@ const data = {
       slug: "elysium-eau-de-parfum",
       category: "Fragrances",
       image: "/images/Perfumes1.jpg",
-      price: 899.99,
+      price: 8.99,
       brand: "TechCo",
       rating: 4.8,
       numReviews: 35,
