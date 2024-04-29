@@ -22,7 +22,7 @@ const data = {
       category: "Fragrances",
       image: "/images/1.jpg",
       price: 8.99,
-      brand: "TechCo",
+      brand: "parfum",
       rating: 4.8,
       numReviews: 35,
       countInStock: 15,
