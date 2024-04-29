@@ -31,6 +31,21 @@ const data = {
       isFeatured: true,
       banner: "/images/b1.jpg",
     },
+    {
+      name: "Aurora Dream Eau de Parfum",
+      slug: "aurora-dream-eau-de-parfum",
+      category: "Fragrances",
+      image: "/images/2.jpg",
+      price: 7.99,
+      brand: "FragranceHouse",
+      rating: 4.5,
+      numReviews: 28,
+      countInStock: 10,
+      description:
+        "Embark on a journey of imagination with Aurora Dream Eau de Parfum, a captivating blend of floral and woody notes that evoke the enchanting beauty of a dreamy dawn.",
+      isFeatured: true,
+      banner: "/images/b2.jpg",
+    },
   ],
 }
 
