@@ -42,17 +42,19 @@ const data = {
     {
       name: "Elysium Eau de Parfum",
       slug: "elysium-eau-de-parfum",
-      category: "Fragrances",
-      image: "/images/1.jpg",
-      price: 8.99,
+      category: "Herren",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714338328/7_b8anpj.jpg",
+      price: 20.99,
       brand: "parfum",
-      rating: 4.8,
+      rating: 3.6,
       numReviews: 35,
       countInStock: 15,
       description:
         "Experience the invigorating blend of citrus and musk with our Elysium Eau de Parfum, designed for the modern man seeking power and excitement in work and leisure alike.",
       isFeatured: true,
-      banner: "/images/b1.jpg",
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714475150/bof3rxkqmtsyschfs1ls.png",
     },
     {
       name: "Aurora Dream Eau de Parfum",
