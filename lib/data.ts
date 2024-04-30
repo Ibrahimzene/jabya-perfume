@@ -46,7 +46,7 @@ const data = {
       image:
         "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714338328/7_b8anpj.jpg",
       price: 20.99,
-      brand: "parfum",
+      brand: "Elysium Eau de Parfum",
       rating: 3.6,
       numReviews: 35,
       countInStock: 15,
