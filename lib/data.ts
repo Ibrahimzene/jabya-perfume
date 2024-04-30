@@ -52,6 +52,23 @@ const data = {
       isFeatured: true,
       banner: "/images/b2.jpg",
     },
+    {
+      name: "Chanel No. 5",
+      slug: "Chanel-No-5",
+      category: "Damen",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714468574/fk4zwlyolnjmnnho0q5b.jpg",
+      price: 55.99,
+      brand: "Chanel No. 5",
+      rating: 4.5,
+      numReviews: 28,
+      countInStock: 10,
+      description:
+        " Ein zeitloser Klassiker mit einem blumigen und luxuriösen Duft, der Eleganz und Weiblichkeit verkörpert.",
+      isFeatured: true,
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714403037/dakvytxxhuzatm19s3do.jpg",
+    },
   ],
 }
 
