@@ -24,13 +24,32 @@ const data = {
   /*  PRODUCTS */
   products: [
     /* NEU HIER */
+
+    {
+      name: "Yves Saint Laurent Black Opium",
+      slug: "Yves-Saint-Laurent-Black-Opium",
+      category: "Damen",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714469364/bqszf4renyo48do2hb6r.jpg",
+      price: 58.5,
+      brand: "Yves Saint Laurent Black Opium",
+      rating: 4.6,
+      numReviews: 20,
+      countInStock: 11,
+      description:
+        " Ein süchtig machender Duft mit einer Mischung aus Kaffee, Vanille und Blumen, der eine mysteriöse und verführerische Aura hat.",
+      isFeatured: true,
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714476404/o812eu8saaptezuchegw.png",
+    },
+
     {
       name: "Armani Code",
       slug: "Armani-Code",
       category: "Herren",
       image:
         "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714469238/gjf0yte5w008yozqpi7q.jpg",
-      price: 64.5,
+      price: 75.9,
       brand: "Armani Code",
       rating: 4.6,
       numReviews: 20,
