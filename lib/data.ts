@@ -69,6 +69,22 @@ const data = {
       banner:
         "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714403037/dakvytxxhuzatm19s3do.jpg",
     },
+    {
+      name: "Dior Sauvage",
+      slug: "Dior-Sauvage",
+      category: "Herren",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714468812/kkvlt7xc58pci8aagnid.jpg",
+      price: 65.99,
+      brand: "Chanel No. 5",
+      rating: 3.5,
+      numReviews: 25,
+      countInStock: 10,
+      description:
+        "  Ein maskuliner Duft mit einer frischen und würzigen Note, der Abenteuer und Sinnlichkeit ausstrahlt.",
+      isFeatured: true,
+      banner: "#",
+    },
   ],
 }
 
