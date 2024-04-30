@@ -57,17 +57,19 @@ const data = {
     {
       name: "Aurora Dream Eau de Parfum",
       slug: "aurora-dream-eau-de-parfum",
-      category: "Fragrances",
-      image: "/images/2.jpg",
-      price: 7.99,
-      brand: "FragranceHouse",
+      category: "Herren",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714338328/8_sjxsgl.jpg",
+      price: 10.99,
+      brand: "Aurora Dream Eau de Parfum",
       rating: 4,
       numReviews: 40,
       countInStock: 10,
       description:
         "Embark on a journey of imagination with Aurora Dream Eau de Parfum, a captivating blend of floral and woody notes that evoke the enchanting beauty of a dreamy dawn.",
       isFeatured: true,
-      banner: "/images/b2.jpg",
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714474691/cztyfbwbttglp4czgljy.png",
     },
     {
       name: "Chanel No. 5",
