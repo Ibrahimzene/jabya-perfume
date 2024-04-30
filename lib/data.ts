@@ -25,6 +25,24 @@ const data = {
   products: [
     /* NEU HIER */
     {
+      name: "Armani Code",
+      slug: "Armani-Code",
+      category: "Herren",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714469238/gjf0yte5w008yozqpi7q.jpg",
+      price: 64.5,
+      brand: "Armani Code",
+      rating: 4.6,
+      numReviews: 20,
+      countInStock: 11,
+      description:
+        " Ein sinnlicher Duft mit orientalischen Noten von Orangenblüte und Vanille, der Verführung und Eleganz verkörpert.",
+      isFeatured: true,
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714476404/o812eu8saaptezuchegw.png",
+    },
+
+    {
       name: "Gucci Bloom",
       slug: "Gucci-Bloom",
       category: "Damen",
