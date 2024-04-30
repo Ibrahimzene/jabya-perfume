@@ -26,7 +26,7 @@ export const SearchBox = () => {
           ))}
         </select>
         <input
-          className="join-item input input-bordered  w-48"
+          className="join-item input input-bordered  w-full"
           placeholder="Search"
           defaultValue={q}
           name="q"
