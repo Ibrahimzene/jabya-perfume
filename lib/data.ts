@@ -21,7 +21,27 @@ const data = {
       isAdmin: false,
     },
   ],
+  /*  PRODUCTS */
   products: [
+    /* NEU HIER */
+    {
+      name: "Gucci Bloom",
+      slug: "Gucci-Bloom",
+      category: "Damen",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714469035/qsvfzqjmhjobfbl4vh4p.jpg",
+      price: 64.5,
+      brand: "Gucci Bloom",
+      rating: 4.6,
+      numReviews: 25,
+      countInStock: 15,
+      description:
+        "Ein femininer Duft mit intensiven Blumennoten, der an einen üppigen Garten erinnert und Weiblichkeit zelebriert.",
+      isFeatured: true,
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714475877/ujsb7gqvxn29i7eucut7.png",
+    },
+
     {
       name: "Marc Jacobs Daisy",
       slug: "Marc-Jacobs-Daisy",
