@@ -24,7 +24,7 @@ const Header = () => {
                 ></path>
               </svg>
             </label>
-            <Link href="/" className="btn btn-ghost text-lg">
+            <Link href="/" className="btn btn-ghost text-lg ">
               JABYA PERFUME
             </Link>
           </div>
