@@ -76,7 +76,7 @@ const data = {
       image:
         "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714468812/kkvlt7xc58pci8aagnid.jpg",
       price: 65.99,
-      brand: "Chanel No. 5",
+      brand: "Dior Sauvage",
       rating: 3.5,
       numReviews: 25,
       countInStock: 10,
