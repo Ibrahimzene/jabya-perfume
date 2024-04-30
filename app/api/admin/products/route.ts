@@ -36,7 +36,7 @@ export const POST = auth(async (req: any) => {
     countInStock: 0,
     description: "product description",
     rating: 0,
-    numReviews: 2.5,
+    numReviews: 4.5,
   })
   try {
     await product.save()
