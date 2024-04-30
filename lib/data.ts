@@ -83,7 +83,8 @@ const data = {
       description:
         "  Ein maskuliner Duft mit einer frischen und würzigen Note, der Abenteuer und Sinnlichkeit ausstrahlt.",
       isFeatured: true,
-      banner: "#",
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714473598/ichck1xnxb1vkokryegy.png",
     },
   ],
 }
