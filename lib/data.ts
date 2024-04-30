@@ -23,6 +23,23 @@ const data = {
   ],
   products: [
     {
+      name: "Marc Jacobs Daisy",
+      slug: "Marc-Jacobs-Daisy",
+      category: "Damen",
+      image:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714468898/qzieg7w6ymo1i9sfrccf.jpg",
+      price: 8.99,
+      brand: "Marc Jacobs Daisy",
+      rating: 2.9,
+      numReviews: 32,
+      countInStock: 12,
+      description:
+        " Ein leichter und blumiger Duft mit Noten von Veilchen und Erdbeeren, der jugendlich und verspielt wirkt.",
+      isFeatured: true,
+      banner:
+        "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714474250/ngmvr5fbe2nhiwuffq1c.png",
+    },
+    {
       name: "Elysium Eau de Parfum",
       slug: "elysium-eau-de-parfum",
       category: "Fragrances",
