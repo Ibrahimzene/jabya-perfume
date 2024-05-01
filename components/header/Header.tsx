@@ -29,9 +29,9 @@ const Header = () => {
               <Image
                 src="/images/logo.png"
                 alt="logo"
-                width={50}
-                height={80}
-                className="inline-block mr-10"
+                width={60}
+                height={60}
+                className="inline-block mr-9"
               />
             </Link>
           </div>
