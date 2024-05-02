@@ -33,8 +33,8 @@ const data = {
         "https://res.cloudinary.com/dsaqhpw2f/image/upload/v1714469364/bqszf4renyo48do2hb6r.jpg",
       price: 58.5,
       brand: "Yves Saint Laurent Black Opium",
-      rating: 4.6,
-      numReviews: 20,
+      rating: 3,
+      numReviews: 10,
       countInStock: 11,
       description:
         " Ein süchtig machender Duft mit einer Mischung aus Kaffee, Vanille und Blumen, der eine mysteriöse und verführerische Aura hat.",
