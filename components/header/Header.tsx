@@ -26,13 +26,7 @@ const Header = () => {
               </svg>
             </label>
             <Link href="/" className="btn btn-ghost text-lg ">
-              <Image
-                src="/images/logo.png"
-                alt="logo"
-                width={60}
-                height={60}
-                className="inline-block mr-9"
-              />
+              JABYA <span className="text-primary  ">PERFUME</span>
             </Link>
           </div>
 
