@@ -26,7 +26,7 @@ const Header = () => {
               </svg>
             </label>
             <Link href="/" className="btn btn-ghost text-lg ">
-              JABYA <span className="text-primary  ">PERFUME</span>
+              JABYA <span className="text-[#FF5733]  ">PERFUME</span>
             </Link>
           </div>
 
